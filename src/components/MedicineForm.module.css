@@ -1,0 +1,13 @@
+.form {
+    display:flex;
+    margin: 5rem;
+    justify-content: space-evenly;
+}
+
+.form button {
+    padding: 0 10px
+}
+
+.form input {
+    margin: 0 10px;
+}
